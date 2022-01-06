@@ -6,7 +6,7 @@ h1 {
 .webvisuals__navbar {
     display: flex;
     justify-content: space-between;
-    align-items: right;
+    align-items: center;
 
     padding: 2rem 4rem;
 }
@@ -26,8 +26,9 @@ h1 {
 .webvisuals__navbar-links_container p,
 .webvisuals__navbar-menu_container p {
     color: whitesmoke;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 25px;
+    
 
     margin: 0 2rem;
     margin-left: 200px;
