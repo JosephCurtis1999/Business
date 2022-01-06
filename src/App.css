@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
+    font-family: 'Montserrat';
 }
 
 body {
@@ -90,4 +91,14 @@ a {
     .section__margin {
         margin: 4rem 2rem;
     }
+}
+
+img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 35px;
 }
