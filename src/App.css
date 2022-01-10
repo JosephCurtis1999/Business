@@ -4,18 +4,19 @@
     margin: 0;
     scroll-behavior: smooth;
     font-family: 'Montserrat';
+    
+
 }
 
-body {
-    background: var(--color-bg)
-}
 
 a {
     color: unset;
     text-decoration: none;
 }
 
-.gradient__bg {
+.App {
+    height: 100vh;
+    width: 100%;
     /* ff 3.6+ */
     background:-moz-radial-gradient(circle at 10% 90%, rgba(0, 113, 255, 1) 0%, rgba(238, 130, 238, 1) 100%);
 

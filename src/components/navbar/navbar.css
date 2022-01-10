@@ -1,6 +1,6 @@
 h1 {
     color: whitesmoke;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .webvisuals__navbar {
@@ -30,6 +30,61 @@ h1 {
     line-height: 25px;
     
 
-    margin: 0 2rem;
-    margin-left: 200px;
+    margin: 0 1rem;
+    margin-left: 150px;
+}
+
+.webvisuals__navbar-menu {
+    margin-left: 1rem;
+
+    display: none;
+    position: relative;
+}
+
+.webvisuals__navbar-menu_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+
+    text-align: end;
+    background: var(--color--footer);
+    padding: 2rem;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    margin-top: 1rem;
+    min-width: 210px;
+    border-radius: 5px;
+    box-shadow: 0 0 5;
+}
+
+.webvisuals__navbar-menu_container p {
+    margin: 1rem 0;
+}
+
+@media screen and (max-width: 1050px) {
+    .webvisuals-links_container {
+        display: none;
+    }
+
+    .webvisuals__navbar-menu {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .webvisuals__navbar {
+        padding: 2rem 4rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .webvisuals__navbar {
+        padding: 2rem;
+    }
+
+    .webvisuals__navbar-menu_container {
+        top: 20px;
+    }
 }
