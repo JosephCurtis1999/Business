@@ -1,0 +1,27 @@
+.webvisuals__header {
+    display: flex;
+
+}
+
+.webvisuals__header-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: 5rem;
+}
+
+.webvisuals__header-content h1 {
+    font-size: 60px;
+}
+
+.webvisuals__header-content p {
+    color: whitesmoke;
+    margin-top: 3rem;
+    font-size: 20px;
+}
+
+.webvisuals__header-image img {
+    border-radius: 30px;
+}
