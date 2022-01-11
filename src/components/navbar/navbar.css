@@ -29,11 +29,9 @@
 .webvisuals__navbar-links_container p,
 .webvisuals__navbar-menu_container p {
     color: whitesmoke;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 25px;
-    
 
-    margin: 0 1rem;
     margin-left: 225px;
 }
 
