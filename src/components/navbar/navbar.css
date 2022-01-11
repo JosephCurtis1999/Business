@@ -1,12 +1,15 @@
-h1 {
+.webvisuals__navbar h1 {
     color: whitesmoke;
     font-size: 40px;
+    font-weight: 700;
+    display: inline-block;
 }
 
 .webvisuals__navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 
     padding: 2rem 4rem;
 }
@@ -31,7 +34,7 @@ h1 {
     
 
     margin: 0 1rem;
-    margin-left: 150px;
+    margin-left: 200px;
 }
 
 .webvisuals__navbar-menu {

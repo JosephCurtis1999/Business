@@ -12,9 +12,6 @@ const App = () => {
                 <Header />
 
             </div>
-            <About />
-            <Webvisuals />
-            <Features />
             <Services />
             <Possibility />
             <Pricing />

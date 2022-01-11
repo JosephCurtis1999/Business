@@ -1,0 +1,60 @@
+.webvisuals__services-title {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 5rem;
+    margin-top: 10rem;
+}
+
+.webvisuals__services-headings h2, h3, h4{
+    color: whitesmoke;
+    font-size: 35px;    
+}
+
+.webvisuals__services-headings {
+   display: flex;
+   justify-content: space-evenly;
+   width: 100%;
+   margin-top: 10rem;
+   margin-bottom: 20rem;
+   text-align: center;
+    
+}
+
+.webvisuals__services-building-box {
+    flex: 1;
+}
+
+.webvisuals__services-deploying-box {
+    flex: 1;
+    
+}
+
+.webvisuals__services-managing-box {
+    flex: 1;
+}
+
+.buildingimg {
+    filter: invert(1);
+}
+
+.deployingimg {
+    filter: invert(1);
+}
+
+.managingimg {
+    filter: invert(1);
+}
+
+.webvisuals__services-headings p {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.webvisuals__building-para {
+    margin: 3.5rem;
+}
+
+.webvisuals__managing-para {
+    margin: 5.5rem;
+}

@@ -1,5 +1,6 @@
 .webvisuals__header {
     display: flex;
+    margin-top: 5rem;
 
 }
 
@@ -14,12 +15,15 @@
 
 .webvisuals__header-content h1 {
     font-size: 60px;
+    color: whitesmoke;
+    text-align: center;
 }
 
 .webvisuals__header-content p {
     color: whitesmoke;
     margin-top: 3rem;
     font-size: 20px;
+    line-height: 30px;
 }
 
 .webvisuals__header-image img {
