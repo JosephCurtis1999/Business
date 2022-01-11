@@ -1,6 +1,6 @@
 .webvisuals__navbar h1 {
     color: whitesmoke;
-    font-size: 40px;
+    font-size: 60px;
     font-weight: 700;
     display: inline-block;
 }
@@ -29,12 +29,12 @@
 .webvisuals__navbar-links_container p,
 .webvisuals__navbar-menu_container p {
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 25px;
     line-height: 25px;
     
 
     margin: 0 1rem;
-    margin-left: 200px;
+    margin-left: 225px;
 }
 
 .webvisuals__navbar-menu {
