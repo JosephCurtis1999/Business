@@ -13,11 +13,8 @@ const App = () => {
 
             </div>
             <Services />
-            <Possibility />
-            <Pricing />
-            <Blog />
             <Testimonials />
-            <Footer />
+            <Blog />
 
 
             
@@ -25,5 +22,6 @@ const App = () => {
         </div>
     )
 }
+
 
 export default App

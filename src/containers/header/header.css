@@ -28,4 +28,5 @@
 
 .webvisuals__header-image img {
     border-radius: 30px;
+    float: left;
 }
