@@ -8,7 +8,7 @@ const Testimonials = () => {
         <div className='card'>
             <div className="card__inner">
                 <div className="card__face card__face--front">
-                    <h2>Click Here for some reviews from clients</h2>
+                    <h2>Click here for some reviews from clients</h2>
 
                 </div>
                 <div className="card__face card__face--back">

@@ -1,0 +1,26 @@
+.contact__header h1 {
+    color: whitesmoke;
+    width: 100%;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+.contact__content p {
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.contact__footer {
+    width: 80%;
+    border-top: 5px solid whitesmoke;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.contact__footer p {
+    color: whitesmoke;
+    margin-top: 2rem;
+}
