@@ -25,6 +25,7 @@
 .webvisuals__navbar-links_container {
     display: flex;
     flex-direction: row;
+    margin-left: 10rem;
 }
 
 .webvisuals__navbar-links_container p,
@@ -33,7 +34,7 @@
     font-size: 20px;
     line-height: 25px;
 
-    margin-left: 225px;
+    margin-left: 175px;
 }
 
 .webvisuals__navbar-menu {
