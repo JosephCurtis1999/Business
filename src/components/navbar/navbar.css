@@ -1,3 +1,4 @@
+
 .webvisuals__navbar h1 {
     color: whitesmoke;
     font-size: 60px;
@@ -66,8 +67,35 @@
     margin: 1rem 0;
 }
 
+@media screen and (max-width: 1850px) {
+    .webvisuals__navbar-links_container {
+        display: none;
+    }
+
+    .webvisuals__navbar-menu {
+        display: flex;
+
+    }
+
+    .webvisuals__navbar {
+        height: 30vh;
+    }
+}
+
+
+@media screen and (max-width: 1650px) {
+    .webvisuals__navbar-links_container {
+        display: none;
+    }
+
+    .webvisuals__navbar-menu {
+        display: block;
+    }
+}
+
+
 @media screen and (max-width: 1050px) {
-    .webvisuals-links_container {
+    .webvisuals__navbar-links_container {
         display: none;
     }
 
@@ -80,6 +108,9 @@
     .webvisuals__navbar {
         padding: 2rem 4rem;
     }
+    .webvisuals__navbar h1 {
+        font-size: 40px;
+    }
 }
 
 @media screen and (max-width: 550px) {
@@ -89,5 +120,9 @@
 
     .webvisuals__navbar-menu_container {
         top: 20px;
+    }
+
+    .webvisuals__navbar h1 {
+        font-size: 35px;
     }
 }
