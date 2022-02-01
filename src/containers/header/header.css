@@ -30,3 +30,34 @@
     border-radius: 30px;
     float: left;
 }
+
+@media screen and (max-width: 1850px) {
+    .webvisuals__header-content h1 {
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 1650px) {
+    .webvisuals__header-content h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 1550px) {
+    .webvisuals__header {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        
+    }
+
+    .webvisuals__header-image {
+        margin-top: 4rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        
+
+    }
+}
