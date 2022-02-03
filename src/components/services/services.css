@@ -59,3 +59,21 @@
 .webvisuals__managing-para {
     margin: 5.5rem;
 }
+
+@media screen and (max-width: 1650px) {
+    .webvisuals__services-headings {
+        display: inline-block;
+        margin-top: 2rem;
+    }
+
+    .webvisuals__deploying-para {
+        margin-bottom: 4rem;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+.managingimg, .deployingimg, .buildingimg {
+    display: none;
+}
+}

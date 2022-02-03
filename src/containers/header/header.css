@@ -56,8 +56,16 @@
         display: flex;
         justify-content: center;
         align-items: center;
-
-        
-
     }
 }
+
+@media screen and (max-width: 850px) {
+    .webvisuals__header-content p {
+        display: none;
+    }
+
+    .webvisuals__header-content h1 {
+        text-align: left;
+    }
+}
+
