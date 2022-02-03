@@ -14,7 +14,7 @@ const Services = () => {
                 <h2>Building</h2>
                 <img className='buildingimg' src="/images/building.png" alt="building" />
                 <p className='webvisuals__building-para'>We will build your website from scratch and design it based on your
-                    preferences
+                    preferences.
                 </p>
                 </div>
 
@@ -22,7 +22,7 @@ const Services = () => {
                 <h3>Deploying</h3>
                 <img className='deployingimg' src="/images/deploying.png" alt="deploying" />
                 <p className='webvisuals__deploying-para'>Once we have built your website we will deploy it to the internet for you and
-                    your customers
+                    your customers.
                 </p>
                 </div>
 
@@ -30,7 +30,7 @@ const Services = () => {
                 <h4>Managing</h4>
                 <img className='managingimg' src="/images/managing8.png" alt="managing" />
                 <p className='webvisuals__managing-para'>For a monthly fee we will manage and update your website
-                on demand
+                on demand.
                 </p>
                 </div>
 
