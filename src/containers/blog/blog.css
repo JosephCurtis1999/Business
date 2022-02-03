@@ -24,3 +24,11 @@
     color: whitesmoke;
     margin-top: 2rem;
 }
+
+@media screen and (max-width: 850px) {
+    .contact__content p {
+        font-size: 18px;
+        margin: 2rem;
+    }
+}
+
