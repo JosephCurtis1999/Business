@@ -8,7 +8,7 @@ const Blog = () => {
                 <h1>Ready to level up your website?</h1>
             </div>
             <div className='contact__content'>
-                <p>Contact us at webvisuals@gmail.com to book a call and
+                <p>Contact us at webvisualsbusiness@gmail.com to book a call and
                     get a quote
                 </p>
             </div>
