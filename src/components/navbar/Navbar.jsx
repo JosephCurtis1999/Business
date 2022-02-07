@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className='webvisuals__navbar'>
             <div className='webvisuals__navbar-links'>
                 <div className='webvisuals__navbar-links_logo'>
-                    <h1>webvisuals</h1>
+                    <h1>webovisuals</h1>
                 </div>
                 <div className='webvisuals__navbar-links_container'>
                     <p><a href="#home">Home</a></p>
