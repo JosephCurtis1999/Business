@@ -3,7 +3,7 @@ import './blog.css';
 
 const Blog = () => {
     return (
-        <div className='contact'>
+        <div className='contact' id='contact'>
             <div className='contact__header'>
                 <h1>Ready to level up your website?</h1>
             </div>

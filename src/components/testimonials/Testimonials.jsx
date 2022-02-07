@@ -5,7 +5,7 @@ const Testimonials = () => {
 
 
     return (
-        <div className='card'>
+        <div className='card' id='testimonials'>
             <div className="card__inner">
                 <div className="card__face card__face--front">
                     <h2>Click here for some reviews from clients</h2>
