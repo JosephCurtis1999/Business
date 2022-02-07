@@ -76,4 +76,16 @@
 .managingimg, .deployingimg, .buildingimg {
     display: none;
 }
+.webvisuals__services-title {
+    font-size: 35px;
+}
+.webvisuals__services-headings h2, h3, h4 {
+    font-size: 20px;
+}
+.webvisuals__services-headings p {
+    font-size: 18px;
+}
+.webvisuals__services-headings {
+    margin-bottom: 10rem;
+}
 }
